@@ -1,4 +1,4 @@
-THE REQUESTES
+THE REQUESTS
 
 * The desicion to use script angular is that the app has a better performance with just some libraries that it need, not all of the libraries, and a better performance on the side of the client (SPA)
 
